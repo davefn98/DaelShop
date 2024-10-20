@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\David\\Cibertec\\DaelShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\views\\shared\\_productospartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:views\\shared\\_productospartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\views\\home\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:views\\home\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Carrito\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Carrito\\Index.cshtml",
+              "ToolTip": "D:\\David\\Cibertec\\DaelShop\\Views\\Carrito\\Index.cshtml",
+              "RelativeToolTip": "Views\\Carrito\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T07:19:13.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ProductosPartial.cshtml",
+              "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Shared\\_ProductosPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ProductosPartial.cshtml",
+              "ToolTip": "D:\\David\\Cibertec\\DaelShop\\Views\\Shared\\_ProductosPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ProductosPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T07:18:22.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\David\\Cibertec\\DaelShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T07:18:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleProducto.cshtml",
+              "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Home\\DetalleProducto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DetalleProducto.cshtml",
+              "ToolTip": "D:\\David\\Cibertec\\DaelShop\\Views\\Home\\DetalleProducto.cshtml",
+              "RelativeToolTip": "Views\\Home\\DetalleProducto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T07:14:34.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
