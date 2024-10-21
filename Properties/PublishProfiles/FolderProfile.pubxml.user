@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\David\Downloads\David\DaelShop</_PublishTargetUrl>
+    <History>True|2024-10-20T07:56:39.4047084Z||;True|2024-10-20T02:52:19.5347277-05:00||;True|2024-10-20T02:46:53.5157921-05:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>server=localhost%3b database=DaelShop%3b user=sa%3b password=sql%3b Encrypt=false%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="DaelShop.Data.ApplicationDbContext">
+      <Value>server=localhost%3b database=DaelShop%3b user=sa%3b password=sql%3b Encrypt=false%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

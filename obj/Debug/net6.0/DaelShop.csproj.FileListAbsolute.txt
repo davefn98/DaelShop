@@ -298,3 +298,4 @@ D:\David\Cibertec\DaelShop\bin\Debug\net6.0\IBM.Watson.Common.dll
 D:\David\Cibertec\DaelShop\bin\Debug\net6.0\JsonSubTypes.dll
 D:\David\Cibertec\DaelShop\bin\Debug\net6.0\JWT.dll
 D:\David\Cibertec\DaelShop\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\David\Cibertec\DaelShop\obj\Debug\net6.0\DaelShop.sourcelink.json
