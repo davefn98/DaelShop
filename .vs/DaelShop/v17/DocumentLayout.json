@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\David\\Cibertec\\DaelShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CE0782B-F2EB-453F-BBF2-BE27490D3DF0}|DaelShop.csproj|d:\\david\\cibertec\\daelshop\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,6 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarritoController.cs",
+              "ToolTip": "D:\\David\\Cibertec\\DaelShop\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwHoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:26:47.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\David\\Cibertec\\DaelShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:25:03.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -46,12 +79,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-21T20:16:25.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:16:25.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -59,12 +91,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:02:25.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:02:25.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Carrito\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Carrito\\Index.cshtml",
@@ -76,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_ProductosPartial.cshtml",
               "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Shared\\_ProductosPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ProductosPartial.cshtml",
@@ -88,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -100,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DetalleProducto.cshtml",
               "DocumentMoniker": "D:\\David\\Cibertec\\DaelShop\\Views\\Home\\DetalleProducto.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\DetalleProducto.cshtml",
