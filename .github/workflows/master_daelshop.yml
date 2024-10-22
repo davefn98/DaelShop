@@ -20,6 +20,12 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '6.0.x'
+       
+      - name: Create Table Azure
+        run: dotnet ef migrations add CreateTableAzure2
+
+      - name: Update DataBase
+        run: dotnet ef database update
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
